@@ -5,7 +5,7 @@
       "name": "Mengenal HTML",
       "description": "Course ini sebagai langkah awal untuk kalian yang ingin menjadi web developer",
       "total_playground": 2,
-      "picture": "assets/images/html_orange_logo.png",
+      "picture": "images/html_orange_logo.png",
       "playground": [
         {
           "no": 1,
@@ -24,7 +24,7 @@
       "name": "MOCKUP TEST",
       "description": "LOREM INSUM SI JAMET MOLOR DI SELOKAN",
       "total_playground": 2,
-      "picture": "assets/images/html_orange_logo.png",
+      "picture": "images/html_orange_logo.png",
       "playground": [
         {
           "no": 1,
